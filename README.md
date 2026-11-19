@@ -249,3 +249,8 @@ Please cite the original translation method when using it:
 ```
 
 Also acknowledge the datasets, model checkpoints, and evaluation tools used in the experiment.
+## Evaluation Results
+
+The evaluation results for different models, translation settings, and language pairs are available here:
+
+[Evaluation Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1zSOddW437eWKIrgNBdzlZYsV2OtShQTz1MBvjK_zNso/edit?usp=sharing)
